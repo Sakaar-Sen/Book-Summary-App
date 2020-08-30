@@ -9,10 +9,10 @@ An interactive GUI that finds random book summaries for you to read.
 # Images
 
 ## Main Screen
-![](https://github.com/Sakaar-Sen/Book-Summary-App/blob/master/images/book01.JPG)
+![](https://github.com/Sakaar-Sen/Book-Summary-App/blob/master/images/book01.jpg)
 
 ## Message Prompt
-![](https://github.com/Sakaar-Sen/Book-Summary-App/blob/master/images/book02.JPG)
+![](https://github.com/Sakaar-Sen/Book-Summary-App/blob/master/images/book02.jpg)
 
 #### Yes - Save the file
 #### No - Find another book summary
@@ -20,12 +20,12 @@ An interactive GUI that finds random book summaries for you to read.
 
 
 ## Message Confirmation
-![](https://github.com/Sakaar-Sen/Book-Summary-App/blob/master/images/book03.JPG)
+![](https://github.com/Sakaar-Sen/Book-Summary-App/blob/master/images/book03.jpg)
 
 
 ## Saved file location
-![](https://github.com/Sakaar-Sen/Book-Summary-App/blob/master/images/book04.JPG)
+![](https://github.com/Sakaar-Sen/Book-Summary-App/blob/master/images/book04.jpg)
 
 ## Saved file
-![](https://github.com/Sakaar-Sen/Book-Summary-App/blob/master/images/book05.JPG)
+![](https://github.com/Sakaar-Sen/Book-Summary-App/blob/master/images/book05.jpg)
 
