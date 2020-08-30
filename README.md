@@ -22,6 +22,9 @@ An interactive GUI that finds random book summaries for you to read.
 ## Message Confirmation
 ![](https://github.com/Sakaar-Sen/Book-Summary-App/blob/master/images/book03.JPG)
 
+
+
+
 ## Saved file location
 ![](https://github.com/Sakaar-Sen/Book-Summary-App/blob/master/images/book04.JPG)
 
