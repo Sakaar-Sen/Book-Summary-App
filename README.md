@@ -14,9 +14,9 @@ An interactive GUI that finds random book summaries for you to read.
 ## Message Prompt
 ![](.//images/book02.JPG)
 
-* Yes - Save the file
-* No - Find another book summary
-* Cancel - Exit the prompt
+* Yes - Save the file;
+* No - Find another book summary;
+* Cancel - Exit the prompt;
 
 
 ## Message Confirmation
